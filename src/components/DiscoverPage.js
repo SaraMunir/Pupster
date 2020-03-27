@@ -11,6 +11,7 @@ function DiscoverPage(){
     }
     return (
         <div className="container ">
+            something somthine
             <img src="https://placedog.net/500" class=" img-thumbnail rounded mx-auto d-block" alt="..."></img>
             <div style={ThumbsUp}>
                 <i class="fas fa-thumbs-up"></i>
